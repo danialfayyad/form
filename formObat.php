@@ -15,7 +15,7 @@
         <div class="card shadow-lg mx-auto" style="max-width: 400px;">
             <div id="form-obat" class="form-container p-4">
                 <h3 class="text-center">Form Input Obat</h3>
-                <form action="proses.php" method="POST">
+                <form action="" method="POST">
                     <div class="mb-3">
                         <label for="namaObat" class="form-label">Nama Obat</label>
                         <input type="text" class="form-control" id="namaObat" name="namaObat" required>
